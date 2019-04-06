@@ -2,7 +2,13 @@ import csv, re
 from PyQt5 import uic
 from PyQt5.QtCore import Qt
 from PyQt5.QtGui import QStandardItemModel
-from PyQt5.QtWidgets import QMainWindow, QMessageBox, QFileDialog, QHeaderView
+from PyQt5.QtWidgets import QMainWindow, QMessageBox, QFileDialog, QHeaderView, QTreeWidgetItem
+from GeneBioPy.models.annotation import Annotation
+
+from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
+from matplotlib.figure import Figure
+import matplotlib.pyplot as plt
+
 
 qtCreatorFile = "/home/pablo/github/genebiopy/GeneBioPy/resources/reader.ui"
 Ui_MainWindow, QtBaseClass = uic.loadUiType(qtCreatorFile)
@@ -16,8 +22,6 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         self.model = self.createAnnotationModel()
         self.annotations = {}
         self.categories = {}
-        self.subcategories = {}
-        self.subsystems = {}
 
     def browseClick(self):
         name, type = QFileDialog.getOpenFileName(None, "Selecione o arquivo", filter="TSV File (*.tsv)")
@@ -32,25 +36,45 @@ class MainWindow(QMainWindow, Ui_MainWindow):
             csv_reader = csv.DictReader(csv_file, delimiter="\t")
             for row in csv_reader:
                 if 'Feature ID' in row:
-                    anot = (row['Feature ID'], row['Contig'], row['Strand'], row['Start'], row['Stop'], row['Function'])
-                    self.annotations[0] = anot
+                    anot = Annotation(row['Feature ID'], row['Accession ID'], row['Contig'], row['Strand'], row['Start'], row['Stop'], row['Function'])
+                    self.annotations[anot.featureID] = anot
                     self.addAnnotation(anot)
                 if 'Features' in row:
-                    c,sc,ss,r = row['Category'],row['Subcategory'], row['Subsystem'],row['Role']
+                    c = row['Category']
                     for f in row['Features'].split(", "):
-                        if not c in self.categories:
-                            self.categories[c] = set()
-                        self.categories[c].add(sc)
-                        if not sc in self.subcategories:
-                            self.subcategories[sc] = set()
-                        self.subcategories[sc].add(ss)
-                        if not ss in self.subsystems:
-                            self.subsystems[ss] = set()
-                        self.subsystems[ss].add(f)
+                        if f in self.annotations:
+                            self.annotations[f].category = row['Category']
+                            self.annotations[f].subcategory = row['Subcategory']
+                            self.annotations[f].subsystem = row['Subsystem']
+                            self.annotations[f].role = row['Role']
+                            if c not in self.categories:
+                                self.categories[c] = {}
+                            self.categories[c][f] = self.annotations[f]
+        self.populateTreeWidget()
+
+    def populateTreeWidget(self):
+        self.treeWidget.clear()
+        for cat in self.categories:
+            parent = QTreeWidgetItem(self.treeWidget)
+            parent.setText(0, "{} ({})".format(cat,len(self.categories[cat])))
+            parent.setFlags(parent.flags() | Qt.ItemIsTristate | Qt.ItemIsUserCheckable)
+            self.populateTreeWidgetChildren(parent, self.categories[cat])
+        if len(self.categories) == 0:
+            parent = QTreeWidgetItem(self.treeWidget)
+            parent.setText(0, "No Category ({})".format(len(self.annotations)))
+            parent.setFlags(parent.flags() | Qt.ItemIsTristate | Qt.ItemIsUserCheckable)
+            self.populateTreeWidgetChildren(parent, self.annotations)
+
+    def populateTreeWidgetChildren(self, parent, children):
+        for ch in children:
+            child = QTreeWidgetItem(parent)
+            child.setFlags(child.flags() | Qt.ItemIsUserCheckable)
+            child.setText(0, ch)
+            child.setCheckState(0, Qt.Unchecked)
 
     def createAnnotationModel(self):
         model = QStandardItemModel(0, 7)
-        model.setHorizontalHeaderLabels(["Feature ID","Ascession ID","Contig","Strand","Start","Stop","Function"])
+        model.setHorizontalHeaderLabels(["Feature ID","Accession ID","Contig","Strand","Start","Stop","Function"])
         header = QHeaderView(Qt.Horizontal, None)
         header.setSectionResizeMode(QHeaderView.ResizeToContents)
         #self.tableView.setHeader(header)
@@ -59,9 +83,10 @@ class MainWindow(QMainWindow, Ui_MainWindow):
 
     def addAnnotation(self, annotation):
         self.model.insertRow(0)
-        self.model.setData(self.model.index(0, 0), annotation[0])
-        self.model.setData(self.model.index(0, 2), annotation[1])
-        self.model.setData(self.model.index(0, 3), annotation[2])
-        self.model.setData(self.model.index(0, 4), annotation[3])
-        self.model.setData(self.model.index(0, 5), annotation[4])
-        self.model.setData(self.model.index(0, 6), annotation[5])
+        self.model.setData(self.model.index(0, 0), annotation.featureID)
+        self.model.setData(self.model.index(0, 1), annotation.accessionID)
+        self.model.setData(self.model.index(0, 2), annotation.contig)
+        self.model.setData(self.model.index(0, 3), annotation.strand)
+        self.model.setData(self.model.index(0, 4), annotation.start)
+        self.model.setData(self.model.index(0, 5), annotation.stop)
+        self.model.setData(self.model.index(0, 6), annotation.function)
