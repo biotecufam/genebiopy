@@ -2,8 +2,9 @@ import csv, re
 from PyQt5 import uic
 from PyQt5.QtCore import Qt
 from PyQt5.QtGui import QStandardItemModel
-from PyQt5.QtWidgets import QMainWindow, QMessageBox, QFileDialog, QHeaderView, QTreeWidgetItem
+from PyQt5.QtWidgets import QMainWindow, QMessageBox, QFileDialog, QHeaderView
 from GeneBioPy.models.annotation import Annotation
+from GeneBioPy.Controllers.Controllers import TreeController
 
 from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
 from matplotlib.figure import Figure
@@ -20,8 +21,8 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         self.setupUi(self)
         self.browseBtn.clicked.connect(self.browseClick)
         self.model = self.createAnnotationModel()
+        self.controller = TreeController(self)
         self.annotations = {}
-        self.categories = {}
 
     def browseClick(self):
         name, type = QFileDialog.getOpenFileName(None, "Selecione o arquivo", filter="TSV File (*.tsv)")
@@ -47,30 +48,7 @@ class MainWindow(QMainWindow, Ui_MainWindow):
                             self.annotations[f].subcategory = row['Subcategory']
                             self.annotations[f].subsystem = row['Subsystem']
                             self.annotations[f].role = row['Role']
-                            if c not in self.categories:
-                                self.categories[c] = {}
-                            self.categories[c][f] = self.annotations[f]
-        self.populateTreeWidget()
-
-    def populateTreeWidget(self):
-        self.treeWidget.clear()
-        for cat in self.categories:
-            parent = QTreeWidgetItem(self.treeWidget)
-            parent.setText(0, "{} ({})".format(cat,len(self.categories[cat])))
-            parent.setFlags(parent.flags() | Qt.ItemIsTristate | Qt.ItemIsUserCheckable)
-            self.populateTreeWidgetChildren(parent, self.categories[cat])
-        if len(self.categories) == 0:
-            parent = QTreeWidgetItem(self.treeWidget)
-            parent.setText(0, "No Category ({})".format(len(self.annotations)))
-            parent.setFlags(parent.flags() | Qt.ItemIsTristate | Qt.ItemIsUserCheckable)
-            self.populateTreeWidgetChildren(parent, self.annotations)
-
-    def populateTreeWidgetChildren(self, parent, children):
-        for ch in children:
-            child = QTreeWidgetItem(parent)
-            child.setFlags(child.flags() | Qt.ItemIsUserCheckable)
-            child.setText(0, ch)
-            child.setCheckState(0, Qt.Unchecked)
+        self.controller.populateTreeWidget()
 
     def createAnnotationModel(self):
         model = QStandardItemModel(0, 7)
