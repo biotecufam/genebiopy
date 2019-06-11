@@ -1,0 +1,242 @@
+﻿##gff-version 3
+enterobacter_cloacae_contig-21_4513205	.	.	58163	58978	.	+	2	ID=fig|6666666.353979.peg.4225;Name=Competence protein F homolog, phosphoribosyltransferase domain, protein YhgH required for utilization of DNA as sole source of carbon and energy
+enterobacter_cloacae_contig-21_4513205	.	.	146675	147646	.	-	2	ID=fig|6666666.353979.peg.4297;Name=Biotin operon repressor / Biotin-protein ligase (EC 6.3.4.15)
+enterobacter_cloacae_contig-15_3433952	.	.	403096	404385	.	+	1	ID=fig|6666666.353979.peg.2846;Name=Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62)
+enterobacter_cloacae_contig-21_4513205	.	.	146675	147646	.	-	2	ID=fig|6666666.353979.peg.4297;Name=Biotin operon repressor / Biotin-protein ligase (EC 6.3.4.15)
+enterobacter_cloacae_contig-15_3433952	.	.	400815	401972	.	-	0	ID=fig|6666666.353979.peg.2844;Name=8-amino-7-oxononanoate synthase (EC 2.3.1.47)
+enterobacter_cloacae_contig-15_3433952	.	.	399382	400083	.	-	1	ID=fig|6666666.353979.peg.2842;Name=Dethiobiotin synthetase (EC 6.3.3.3)
+enterobacter_cloacae_contig-21_4513205	.	.	57484	58209	.	-	1	ID=fig|6666666.353979.peg.4224;Name=Biotin synthesis protein BioH
+enterobacter_cloacae_contig-15_3433952	.	.	401969	403009	.	-	2	ID=fig|6666666.353979.peg.2845;Name=Biotin synthase (EC 2.8.1.6)
+enterobacter_cloacae_contig-15_3433952	.	.	400076	400831	.	-	2	ID=fig|6666666.353979.peg.2843;Name=Biotin synthesis protein BioC
+enterobacter_cloacae_contig-21_4513205	.	.	146675	147646	.	-	2	ID=fig|6666666.353979.peg.4297;Name=Biotin operon repressor / Biotin-protein ligase (EC 6.3.4.15)
+enterobacter_cloacae_contig-15_3433952	.	.	403096	404385	.	+	1	ID=fig|6666666.353979.peg.2846;Name=Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62)
+enterobacter_cloacae_contig-21_4513205	.	.	146675	147646	.	-	2	ID=fig|6666666.353979.peg.4297;Name=Biotin operon repressor / Biotin-protein ligase (EC 6.3.4.15)
+enterobacter_cloacae_contig-15_3433952	.	.	400815	401972	.	-	0	ID=fig|6666666.353979.peg.2844;Name=8-amino-7-oxononanoate synthase (EC 2.3.1.47)
+enterobacter_cloacae_contig-21_4513205	.	.	57484	58209	.	-	1	ID=fig|6666666.353979.peg.4224;Name=Biotin synthesis protein BioH
+enterobacter_cloacae_contig-15_3433952	.	.	399382	400083	.	-	1	ID=fig|6666666.353979.peg.2842;Name=Dethiobiotin synthetase (EC 6.3.3.3)
+enterobacter_cloacae_contig-15_3433952	.	.	401969	403009	.	-	2	ID=fig|6666666.353979.peg.2845;Name=Biotin synthase (EC 2.8.1.6)
+enterobacter_cloacae_contig-15_3433952	.	.	400076	400831	.	-	2	ID=fig|6666666.353979.peg.2843;Name=Biotin synthesis protein BioC
+enterobacter_cloacae_contig-21_4513205	.	.	58163	58978	.	+	2	ID=fig|6666666.353979.peg.4225;Name=Competence protein F homolog, phosphoribosyltransferase domain, protein YhgH required for utilization of DNA as sole source of carbon and energy
+enterobacter_cloacae_contig-21_4513205	.	.	59040	59615	.	+	0	ID=fig|6666666.353979.peg.4226;Name=NfuA Fe-S protein maturation
+enterobacter_cloacae_contig-15_3433952	.	.	403096	404385	.	+	1	ID=fig|6666666.353979.peg.2846;Name=Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62)
+enterobacter_cloacae_contig-15_3433952	.	.	400815	401972	.	-	0	ID=fig|6666666.353979.peg.2844;Name=8-amino-7-oxononanoate synthase (EC 2.3.1.47)
+enterobacter_cloacae_contig-21_4513205	.	.	57484	58209	.	-	1	ID=fig|6666666.353979.peg.4224;Name=Biotin synthesis protein BioH
+enterobacter_cloacae_contig-15_3433952	.	.	399382	400083	.	-	1	ID=fig|6666666.353979.peg.2842;Name=Dethiobiotin synthetase (EC 6.3.3.3)
+enterobacter_cloacae_contig-15_3433952	.	.	401969	403009	.	-	2	ID=fig|6666666.353979.peg.2845;Name=Biotin synthase (EC 2.8.1.6)
+enterobacter_cloacae_contig-15_3433952	.	.	400076	400831	.	-	2	ID=fig|6666666.353979.peg.2843;Name=Biotin synthesis protein BioC
+enterobacter_cloacae_contig-02_285060	.	.	99623	100378	.	-	2	ID=fig|6666666.353979.peg.248;Name=Sulfur carrier protein adenylyltransferase ThiF
+enterobacter_cloacae_contig-02_285060	.	.	98667	99437	.	-	0	ID=fig|6666666.353979.peg.246;Name=Thiazole biosynthesis protein ThiG
+enterobacter_cloacae_contig-07_1006554	.	.	344865	345560	.	-	0	ID=fig|6666666.353979.peg.783;Name=Thiamin ABC transporter, ATPase component / Thiamine transport ATP-binding protein thiQ
+enterobacter_cloacae_contig-15_3433952	.	.	753373	754344	.	-	1	ID=fig|6666666.353979.peg.3169;Name=Thiamine-monophosphate kinase (EC 2.7.4.16)
+enterobacter_cloacae_contig-07_1006554	.	.	347130	348113	.	-	0	ID=fig|6666666.353979.peg.785;Name=Thiamin ABC transporter, substrate-binding component
+enterobacter_cloacae_contig-12_2246463	.	.	28253	28819	.	-	2	ID=fig|6666666.353979.peg.2100;Name=Thiamine kinase (EC 2.7.1.89) @ Adenosylcobinamide kinase (EC 2.7.1.156)
+enterobacter_cloacae_contig-02_285060	.	.	100371	101006	.	-	0	ID=fig|6666666.353979.peg.249;Name=Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+enterobacter_cloacae_contig-16_3945362	.	.	93308	94078	.	-	2	ID=fig|6666666.353979.peg.3360;Name=Hydroxyethylthiazole kinase (EC 2.7.1.50)
+enterobacter_cloacae_contig-07_1006554	.	.	345544	347154	.	-	1	ID=fig|6666666.353979.peg.784;Name=Thiamin ABC transporter, transmembrane component
+enterobacter_cloacae_contig-02_285060	.	.	99439	99639	.	-	1	ID=fig|6666666.353979.peg.247;Name=Sulfur carrier protein ThiS
+enterobacter_cloacae_contig-16_3945362	.	.	220595	221890	.	-	2	ID=fig|6666666.353979.peg.3473;Name=Menaquinone-specific isochorismate synthase (EC 5.4.4.2)
+enterobacter_cloacae_contig-16_3945362	.	.	218836	220506	.	-	1	ID=fig|6666666.353979.peg.3472;Name=2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase (EC 2.2.1.9)
+enterobacter_cloacae_contig-16_3945362	.	.	214887	216248	.	-	0	ID=fig|6666666.353979.peg.3468;Name=O-succinylbenzoic acid--CoA ligase (EC 6.2.1.26)
+enterobacter_cloacae_contig-22_4594853	.	.	15600	16355	.	-	0	ID=fig|6666666.353979.peg.4314;Name=Ubiquinone/menaquinone biosynthesis methyltransferase UbiE (EC 2.1.1.-) @ 2-heptaprenyl-1,4-naphthoquinone methyltransferase (EC 2.1.1.163)
+enterobacter_cloacae_contig-22_4594853	.	.	15600	16355	.	-	0	ID=fig|6666666.353979.peg.4314;Name=Ubiquinone/menaquinone biosynthesis methyltransferase UbiE (EC 2.1.1.-) @ 2-heptaprenyl-1,4-naphthoquinone methyltransferase (EC 2.1.1.163)
+enterobacter_cloacae_contig-16_3945362	.	.	218078	218839	.	-	2	ID=fig|6666666.353979.peg.3471;Name=2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase (EC 4.2.99.20)
+enterobacter_cloacae_contig-16_3945362	.	.	217210	218067	.	-	1	ID=fig|6666666.353979.peg.3470;Name=Naphthoate synthase (EC 4.1.3.36)
+enterobacter_cloacae_contig-23_4699799	.	.	40851	41771	.	+	0	ID=fig|6666666.353979.peg.4402;Name=1,4-dihydroxy-2-naphthoate polyprenyltransferase (EC 2.5.1.74)
+enterobacter_cloacae_contig-15_3433952	.	.	76538	77716	.	-	2	ID=fig|6666666.353979.peg.2537;Name=2-octaprenyl-6-methoxyphenol hydroxylase (EC 1.14.13.-)
+enterobacter_cloacae_contig-22_4594853	.	.	13344	14984	.	-	0	ID=fig|6666666.353979.peg.4312;Name=Ubiquinone biosynthesis monooxygenase UbiB
+enterobacter_cloacae_contig-22_4594853	.	.	15600	16355	.	-	0	ID=fig|6666666.353979.peg.4314;Name=Ubiquinone/menaquinone biosynthesis methyltransferase UbiE (EC 2.1.1.-) @ 2-heptaprenyl-1,4-naphthoquinone methyltransferase (EC 2.1.1.163)
+enterobacter_cloacae_contig-04_388864	.	.	13529	14398	.	+	2	ID=fig|6666666.353979.peg.287;Name=4-hydroxybenzoate polyprenyltransferase (EC 2.5.1.39)
+enterobacter_cloacae_contig-16_3945362	.	.	265947	266516	.	-	0	ID=fig|6666666.353979.peg.3518;Name=3-polyprenyl-4-hydroxybenzoate carboxy-lyase UbiX (EC 4.1.1.-)
+enterobacter_cloacae_contig-04_388864	.	.	13019	13516	.	+	2	ID=fig|6666666.353979.peg.286;Name=Chorismate--pyruvate lyase (EC 4.1.3.40)
+enterobacter_cloacae_contig-15_3433952	.	.	75323	76525	.	-	2	ID=fig|6666666.353979.peg.2536;Name=2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase (EC 1.14.13.-)
+enterobacter_cloacae_contig-15_3433952	.	.	500087	501262	.	-	2	ID=fig|6666666.353979.peg.2930;Name=2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase (EC 1.14.13.-)
+enterobacter_cloacae_contig-22_4594853	.	.	7973	8674	.	-	2	ID=fig|6666666.353979.peg.4305;Name=NAD(P)H-flavin reductase (EC 1.5.1.29) (EC 1.16.1.3)
+enterobacter_cloacae_contig-22_4594853	.	.	14981	15586	.	-	2	ID=fig|6666666.353979.peg.4313;Name=Protein YigP (COG3165) clustered with ubiquinone biosynthetic genes
+enterobacter_cloacae_contig-22_4594853	.	.	8718	10199	.	-	0	ID=fig|6666666.353979.peg.4306;Name=3-polyprenyl-4-hydroxybenzoate carboxy-lyase (EC 4.1.1.-)
+enterobacter_cloacae_contig-16_3945362	.	.	220595	221890	.	-	2	ID=fig|6666666.353979.peg.3473;Name=Menaquinone-specific isochorismate synthase (EC 5.4.4.2)
+enterobacter_cloacae_contig-16_3945362	.	.	218836	220506	.	-	1	ID=fig|6666666.353979.peg.3472;Name=2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase (EC 2.2.1.9)
+enterobacter_cloacae_contig-16_3945362	.	.	214887	216248	.	-	0	ID=fig|6666666.353979.peg.3468;Name=O-succinylbenzoic acid--CoA ligase (EC 6.2.1.26)
+enterobacter_cloacae_contig-22_4594853	.	.	15600	16355	.	-	0	ID=fig|6666666.353979.peg.4314;Name=Ubiquinone/menaquinone biosynthesis methyltransferase UbiE (EC 2.1.1.-) @ 2-heptaprenyl-1,4-naphthoquinone methyltransferase (EC 2.1.1.163)
+enterobacter_cloacae_contig-16_3945362	.	.	218078	218839	.	-	2	ID=fig|6666666.353979.peg.3471;Name=2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase (EC 4.2.99.20)
+enterobacter_cloacae_contig-16_3945362	.	.	217210	218067	.	-	1	ID=fig|6666666.353979.peg.3470;Name=Naphthoate synthase (EC 4.1.3.36)
+enterobacter_cloacae_contig-23_4699799	.	.	40851	41771	.	+	0	ID=fig|6666666.353979.peg.4402;Name=1,4-dihydroxy-2-naphthoate polyprenyltransferase (EC 2.5.1.74)
+enterobacter_cloacae_contig-15_3433952	.	.	76538	77716	.	-	2	ID=fig|6666666.353979.peg.2537;Name=2-octaprenyl-6-methoxyphenol hydroxylase (EC 1.14.13.-)
+enterobacter_cloacae_contig-22_4594853	.	.	13344	14984	.	-	0	ID=fig|6666666.353979.peg.4312;Name=Ubiquinone biosynthesis monooxygenase UbiB
+enterobacter_cloacae_contig-22_4594853	.	.	15600	16355	.	-	0	ID=fig|6666666.353979.peg.4314;Name=Ubiquinone/menaquinone biosynthesis methyltransferase UbiE (EC 2.1.1.-) @ 2-heptaprenyl-1,4-naphthoquinone methyltransferase (EC 2.1.1.163)
+enterobacter_cloacae_contig-04_388864	.	.	13529	14398	.	+	2	ID=fig|6666666.353979.peg.287;Name=4-hydroxybenzoate polyprenyltransferase (EC 2.5.1.39)
+enterobacter_cloacae_contig-16_3945362	.	.	265947	266516	.	-	0	ID=fig|6666666.353979.peg.3518;Name=3-polyprenyl-4-hydroxybenzoate carboxy-lyase UbiX (EC 4.1.1.-)
+enterobacter_cloacae_contig-04_388864	.	.	13019	13516	.	+	2	ID=fig|6666666.353979.peg.286;Name=Chorismate--pyruvate lyase (EC 4.1.3.40)
+enterobacter_cloacae_contig-15_3433952	.	.	75323	76525	.	-	2	ID=fig|6666666.353979.peg.2536;Name=2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase (EC 1.14.13.-)
+enterobacter_cloacae_contig-15_3433952	.	.	500087	501262	.	-	2	ID=fig|6666666.353979.peg.2930;Name=2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase (EC 1.14.13.-)
+enterobacter_cloacae_contig-22_4594853	.	.	7973	8674	.	-	2	ID=fig|6666666.353979.peg.4305;Name=NAD(P)H-flavin reductase (EC 1.5.1.29) (EC 1.16.1.3)
+enterobacter_cloacae_contig-22_4594853	.	.	14981	15586	.	-	2	ID=fig|6666666.353979.peg.4313;Name=Protein YigP (COG3165) clustered with ubiquinone biosynthetic genes
+enterobacter_cloacae_contig-22_4594853	.	.	8718	10199	.	-	0	ID=fig|6666666.353979.peg.4306;Name=3-polyprenyl-4-hydroxybenzoate carboxy-lyase (EC 4.1.1.-)
+enterobacter_cloacae_contig-14_2571466	.	.	92080	93150	.	-	1	ID=fig|6666666.353979.peg.2297;Name=L-threonine 3-O-phosphate decarboxylase (EC 4.1.1.81)
+enterobacter_cloacae_contig-14_2571466	.	.	86863	87495	.	-	1	ID=fig|6666666.353979.peg.2292;Name=Cobalt-precorrin-8x methylmutase (EC 5.4.1.2)
+enterobacter_cloacae_contig-14_2571466	.	.	79745	80458	.	-	2	ID=fig|6666666.353979.peg.2283;Name=Cobalt-precorrin-2 C20-methyltransferase (EC 2.1.1.130)
+enterobacter_cloacae_contig-14_2571466	.	.	75714	77237	.	-	0	ID=fig|6666666.353979.peg.2278;Name=Cobyric acid synthase (EC 6.3.5.10)
+enterobacter_cloacae_contig-14_2571466	.	.	82767	83822	.	-	0	ID=fig|6666666.353979.peg.2287;Name=Cobalamin biosynthesis protein CbiG
+enterobacter_cloacae_contig-14_2571466	.	.	90571	91437	.	+	1	ID=fig|6666666.353979.peg.2295;Name=Threonine kinase in B12 biosynthesis
+enterobacter_cloacae_contig-14_2571466	.	.	80455	81249	.	-	1	ID=fig|6666666.353979.peg.2284;Name=Sirohydrochlorin cobaltochelatase CbiK (EC 4.99.1.3)
+enterobacter_cloacae_contig-12_2246463	.	.	28253	28819	.	-	2	ID=fig|6666666.353979.peg.2100;Name=Thiamine kinase (EC 2.7.1.89) @ Adenosylcobinamide kinase (EC 2.7.1.156)
+enterobacter_cloacae_contig-14_2571466	.	.	75166	75717	.	-	1	ID=fig|6666666.353979.peg.2277;Name=Adenosylcobinamide kinase (EC 2.7.1.156) / Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62)
+enterobacter_cloacae_contig-14_2571466	.	.	81260	82045	.	-	2	ID=fig|6666666.353979.peg.2285;Name=Cobalt-precorrin-6x reductase (EC 1.3.1.54)
+enterobacter_cloacae_contig-14_2571466	.	.	75166	75717	.	-	1	ID=fig|6666666.353979.peg.2277;Name=Adenosylcobinamide kinase (EC 2.7.1.156) / Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62)
+enterobacter_cloacae_contig-14_2571466	.	.	82042	82767	.	-	1	ID=fig|6666666.353979.peg.2286;Name=Cobalt-precorrin-3b C17-methyltransferase
+enterobacter_cloacae_contig-14_2571466	.	.	83803	84576	.	-	1	ID=fig|6666666.353979.peg.2288;Name=Cobalt-precorrin-4 C11-methyltransferase (EC 2.1.1.133)
+enterobacter_cloacae_contig-14_2571466	.	.	87508	88467	.	-	1	ID=fig|6666666.353979.peg.2293;Name=Adenosylcobinamide-phosphate synthase (EC 6.3.1.10)
+enterobacter_cloacae_contig-14_2571466	.	.	72739	73785	.	-	1	ID=fig|6666666.353979.peg.2274;Name=Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (EC 2.4.2.21)
+enterobacter_cloacae_contig-09_1582130	.	.	390944	391534	.	-	2	ID=fig|6666666.353979.peg.1300;Name=Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+enterobacter_cloacae_contig-14_2571466	.	.	104968	105570	.	+	1	ID=fig|6666666.353979.peg.2310;Name=Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+enterobacter_cloacae_contig-14_2571466	.	.	85727	86866	.	-	2	ID=fig|6666666.353979.peg.2291;Name=Cobalt-precorrin-6 synthase, anaerobic
+enterobacter_cloacae_contig-16_3945362	.	.	344906	345805	.	+	2	ID=fig|6666666.353979.peg.3596;Name=Coproporphyrinogen III oxidase, aerobic (EC 1.3.3.3)
+enterobacter_cloacae_contig-22_4594853	.	.	43043	43738	.	+	2	ID=fig|6666666.353979.peg.4338;Name=Uroporphyrinogen-III synthase (EC 4.2.1.75)
+enterobacter_cloacae_contig-07_1006554	.	.	450359	451639	.	-	2	ID=fig|6666666.353979.peg.877;Name=Glutamate-1-semialdehyde aminotransferase (EC 5.4.3.8)
+enterobacter_cloacae_contig-14_2571466	.	.	91429	92076	.	-	1	ID=fig|6666666.353979.peg.2296;Name=Siroheme synthase / Precorrin-2 oxidase (EC 1.3.1.76) / Sirohydrochlorin ferrochelatase (EC 4.99.1.4) / Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)
+enterobacter_cloacae_contig-18_4188565	.	.	120097	121455	.	-	1	ID=fig|6666666.353979.peg.3939;Name=Siroheme synthase / Precorrin-2 oxidase (EC 1.3.1.76) / Sirohydrochlorin ferrochelatase (EC 4.99.1.4) / Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)
+enterobacter_cloacae_contig-21_4513205	.	.	27123	28496	.	+	0	ID=fig|6666666.353979.peg.4194;Name=Siroheme synthase / Precorrin-2 oxidase (EC 1.3.1.76) / Sirohydrochlorin ferrochelatase (EC 4.99.1.4) / Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)
+enterobacter_cloacae_contig-22_4594853	.	.	243	788	.	-	0	ID=fig|6666666.353979.peg.4299;Name=Protoporphyrinogen IX oxidase, oxygen-independent, HemG (EC 1.3.-.-)
+enterobacter_cloacae_contig-23_4699799	.	.	93761	95134	.	-	2	ID=fig|6666666.353979.peg.4452;Name=Coproporphyrinogen III oxidase, oxygen-independent (EC 1.3.99.22)
+enterobacter_cloacae_contig-09_1582130	.	.	294918	296174	.	+	0	ID=fig|6666666.353979.peg.1199;Name=Glutamyl-tRNA reductase (EC 1.2.1.70)
+enterobacter_cloacae_contig-22_4594853	.	.	42126	43001	.	+	0	ID=fig|6666666.353979.peg.4337;Name=Porphobilinogen deaminase (EC 2.5.1.61)
+enterobacter_cloacae_contig-14_2571466	.	.	91429	92076	.	-	1	ID=fig|6666666.353979.peg.2296;Name=Siroheme synthase / Precorrin-2 oxidase (EC 1.3.1.76) / Sirohydrochlorin ferrochelatase (EC 4.99.1.4) / Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)
+enterobacter_cloacae_contig-14_2571466	.	.	93189	93959	.	-	0	ID=fig|6666666.353979.peg.2298;Name=Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)
+enterobacter_cloacae_contig-18_4188565	.	.	120097	121455	.	-	1	ID=fig|6666666.353979.peg.3939;Name=Siroheme synthase / Precorrin-2 oxidase (EC 1.3.1.76) / Sirohydrochlorin ferrochelatase (EC 4.99.1.4) / Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)
+enterobacter_cloacae_contig-21_4513205	.	.	27123	28496	.	+	0	ID=fig|6666666.353979.peg.4194;Name=Siroheme synthase / Precorrin-2 oxidase (EC 1.3.1.76) / Sirohydrochlorin ferrochelatase (EC 4.99.1.4) / Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)
+enterobacter_cloacae_contig-15_3433952	.	.	679754	680716	.	-	2	ID=fig|6666666.353979.peg.3100;Name=Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)
+enterobacter_cloacae_contig-02_285060	.	.	104553	105617	.	+	0	ID=fig|6666666.353979.peg.253;Name=Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+enterobacter_cloacae_contig-14_2571466	.	.	91429	92076	.	-	1	ID=fig|6666666.353979.peg.2296;Name=Siroheme synthase / Precorrin-2 oxidase (EC 1.3.1.76) / Sirohydrochlorin ferrochelatase (EC 4.99.1.4) / Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)
+enterobacter_cloacae_contig-18_4188565	.	.	120097	121455	.	-	1	ID=fig|6666666.353979.peg.3939;Name=Siroheme synthase / Precorrin-2 oxidase (EC 1.3.1.76) / Sirohydrochlorin ferrochelatase (EC 4.99.1.4) / Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)
+enterobacter_cloacae_contig-21_4513205	.	.	27123	28496	.	+	0	ID=fig|6666666.353979.peg.4194;Name=Siroheme synthase / Precorrin-2 oxidase (EC 1.3.1.76) / Sirohydrochlorin ferrochelatase (EC 4.99.1.4) / Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)
+enterobacter_cloacae_contig-14_2571466	.	.	92080	93150	.	-	1	ID=fig|6666666.353979.peg.2297;Name=L-threonine 3-O-phosphate decarboxylase (EC 4.1.1.81)
+enterobacter_cloacae_contig-14_2571466	.	.	85128	85733	.	-	0	ID=fig|6666666.353979.peg.2290;Name=Cobalt-precorrin-6y C5-methyltransferase (EC 2.1.1.-)
+enterobacter_cloacae_contig-14_2571466	.	.	86863	87495	.	-	1	ID=fig|6666666.353979.peg.2292;Name=Cobalt-precorrin-8x methylmutase (EC 5.4.1.2)
+enterobacter_cloacae_contig-14_2571466	.	.	79745	80458	.	-	2	ID=fig|6666666.353979.peg.2283;Name=Cobalt-precorrin-2 C20-methyltransferase (EC 2.1.1.130)
+enterobacter_cloacae_contig-14_2571466	.	.	75714	77237	.	-	0	ID=fig|6666666.353979.peg.2278;Name=Cobyric acid synthase (EC 6.3.5.10)
+enterobacter_cloacae_contig-14_2571466	.	.	82767	83822	.	-	0	ID=fig|6666666.353979.peg.2287;Name=Cobalamin biosynthesis protein CbiG
+enterobacter_cloacae_contig-14_2571466	.	.	84569	85138	.	-	2	ID=fig|6666666.353979.peg.2289;Name=Cobalt-precorrin-6y C15-methyltransferase [decarboxylating] (EC 2.1.1.-)
+enterobacter_cloacae_contig-11_2174242	.	.	240585	241340	.	-	0	ID=fig|6666666.353979.peg.1981;Name=Vitamin B12 ABC transporter, ATPase component BtuD
+enterobacter_cloacae_contig-14_2571466	.	.	90571	91437	.	+	1	ID=fig|6666666.353979.peg.2295;Name=Threonine kinase in B12 biosynthesis
+enterobacter_cloacae_contig-14_2571466	.	.	91429	92076	.	-	1	ID=fig|6666666.353979.peg.2296;Name=Siroheme synthase / Precorrin-2 oxidase (EC 1.3.1.76) / Sirohydrochlorin ferrochelatase (EC 4.99.1.4) / Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)
+enterobacter_cloacae_contig-14_2571466	.	.	93189	93959	.	-	0	ID=fig|6666666.353979.peg.2298;Name=Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)
+enterobacter_cloacae_contig-18_4188565	.	.	120097	121455	.	-	1	ID=fig|6666666.353979.peg.3939;Name=Siroheme synthase / Precorrin-2 oxidase (EC 1.3.1.76) / Sirohydrochlorin ferrochelatase (EC 4.99.1.4) / Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)
+enterobacter_cloacae_contig-21_4513205	.	.	27123	28496	.	+	0	ID=fig|6666666.353979.peg.4194;Name=Siroheme synthase / Precorrin-2 oxidase (EC 1.3.1.76) / Sirohydrochlorin ferrochelatase (EC 4.99.1.4) / Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)
+enterobacter_cloacae_contig-14_2571466	.	.	80455	81249	.	-	1	ID=fig|6666666.353979.peg.2284;Name=Sirohydrochlorin cobaltochelatase CbiK (EC 4.99.1.3)
+enterobacter_cloacae_contig-07_1006554	.	.	454330	455130	.	-	1	ID=fig|6666666.353979.peg.881;Name=Vitamin B12 ABC transporter, B12-binding component BtuF
+enterobacter_cloacae_contig-23_4699799	.	.	1211	3064	.	-	2	ID=fig|6666666.353979.peg.4371;Name=Outer membrane vitamin B12 receptor BtuB
+enterobacter_cloacae_contig-14_2571466	.	.	81260	82045	.	-	2	ID=fig|6666666.353979.peg.2285;Name=Cobalt-precorrin-6x reductase (EC 1.3.1.54)
+enterobacter_cloacae_contig-14_2571466	.	.	75166	75717	.	-	1	ID=fig|6666666.353979.peg.2277;Name=Adenosylcobinamide kinase (EC 2.7.1.156) / Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62)
+enterobacter_cloacae_contig-11_2174242	.	.	241925	242905	.	-	2	ID=fig|6666666.353979.peg.1983;Name=Vitamin B12 ABC transporter, permease component BtuC
+enterobacter_cloacae_contig-14_2571466	.	.	82042	82767	.	-	1	ID=fig|6666666.353979.peg.2286;Name=Cobalt-precorrin-3b C17-methyltransferase
+enterobacter_cloacae_contig-14_2571466	.	.	83803	84576	.	-	1	ID=fig|6666666.353979.peg.2288;Name=Cobalt-precorrin-4 C11-methyltransferase (EC 2.1.1.133)
+enterobacter_cloacae_contig-14_2571466	.	.	72739	73785	.	-	1	ID=fig|6666666.353979.peg.2274;Name=Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (EC 2.4.2.21)
+enterobacter_cloacae_contig-14_2571466	.	.	87508	88467	.	-	1	ID=fig|6666666.353979.peg.2293;Name=Adenosylcobinamide-phosphate synthase (EC 6.3.1.10)
+enterobacter_cloacae_contig-09_1582130	.	.	390944	391534	.	-	2	ID=fig|6666666.353979.peg.1300;Name=Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+enterobacter_cloacae_contig-14_2571466	.	.	104968	105570	.	+	1	ID=fig|6666666.353979.peg.2310;Name=Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+enterobacter_cloacae_contig-14_2571466	.	.	85727	86866	.	-	2	ID=fig|6666666.353979.peg.2291;Name=Cobalt-precorrin-6 synthase, anaerobic
+enterobacter_cloacae_contig-07_1006554	.	.	309806	310681	.	+	2	ID=fig|6666666.353979.peg.756;Name=Riboflavin kinase (EC 2.7.1.26) / FMN adenylyltransferase (EC 2.7.7.2)
+enterobacter_cloacae_contig-15_3433952	.	.	754863	755333	.	-	0	ID=fig|6666666.353979.peg.3171;Name=6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+enterobacter_cloacae_contig-22_4594853	.	.	35285	36001	.	-	2	ID=fig|6666666.353979.peg.4330;Name=Putative FMN hydrolase (EC 3.1.3.-), 5-Amino-6-(5'-phosphoribitylamino)uracil phosphatase
+enterobacter_cloacae_contig-15_3433952	.	.	755421	756524	.	-	0	ID=fig|6666666.353979.peg.3172;Name=Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+enterobacter_cloacae_contig-07_1006554	.	.	309806	310681	.	+	2	ID=fig|6666666.353979.peg.756;Name=Riboflavin kinase (EC 2.7.1.26) / FMN adenylyltransferase (EC 2.7.7.2)
+enterobacter_cloacae_contig-09_1582130	.	.	401797	402387	.	-	1	ID=fig|6666666.353979.peg.1310;Name=GTP cyclohydrolase II (EC 3.5.4.25)
+enterobacter_cloacae_contig-11_2174242	.	.	169121	169762	.	-	2	ID=fig|6666666.353979.peg.1912;Name=Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+enterobacter_cloacae_contig-15_3433952	.	.	755421	756524	.	-	0	ID=fig|6666666.353979.peg.3172;Name=Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+enterobacter_cloacae_contig-15_3433952	.	.	231973	232626	.	-	1	ID=fig|6666666.353979.peg.2682;Name=3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12)
+enterobacter_cloacae_contig-07_1006554	.	.	309806	310681	.	+	2	ID=fig|6666666.353979.peg.756;Name=Riboflavin kinase (EC 2.7.1.26) / FMN adenylyltransferase (EC 2.7.7.2)
+enterobacter_cloacae_contig-11_2174242	.	.	169121	169762	.	-	2	ID=fig|6666666.353979.peg.1912;Name=Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+enterobacter_cloacae_contig-07_1006554	.	.	309806	310681	.	+	2	ID=fig|6666666.353979.peg.756;Name=Riboflavin kinase (EC 2.7.1.26) / FMN adenylyltransferase (EC 2.7.7.2)
+enterobacter_cloacae_contig-15_3433952	.	.	231973	232626	.	-	1	ID=fig|6666666.353979.peg.2682;Name=3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12)
+enterobacter_cloacae_contig-18_4188565	.	.	149354	149803	.	-	2	ID=fig|6666666.353979.peg.3960;Name=Hypothetical flavoprotein YqcA (clustered with tRNA pseudouridine synthase C)
+enterobacter_cloacae_contig-10_1846796	.	.	199959	200564	.	+	0	ID=fig|6666666.353979.peg.1661;Name=NAD(P)H oxidoreductase YRKL (EC 1.6.99.-) @ Putative NADPH-quinone reductase (modulator of drug activity B) @ Flavodoxin 2
+enterobacter_cloacae_contig-15_3433952	.	.	485364	485894	.	+	0	ID=fig|6666666.353979.peg.2919;Name=Flavodoxin 1
+enterobacter_cloacae_contig-10_1846796	.	.	199959	200564	.	+	0	ID=fig|6666666.353979.peg.1661;Name=NAD(P)H oxidoreductase YRKL (EC 1.6.99.-) @ Putative NADPH-quinone reductase (modulator of drug activity B) @ Flavodoxin 2
+enterobacter_cloacae_contig-15_3433952	.	.	63823	64344	.	+	1	ID=fig|6666666.353979.peg.2524;Name=Flavodoxin 2
+enterobacter_cloacae_contig-01_173412	.	.	15221	15670	.	+	2	ID=fig|6666666.353979.peg.14;Name=Flavoprotein MioC
+enterobacter_cloacae_contig-07_1006554	.	.	309806	310681	.	+	2	ID=fig|6666666.353979.peg.756;Name=Riboflavin kinase (EC 2.7.1.26) / FMN adenylyltransferase (EC 2.7.7.2)
+enterobacter_cloacae_contig-15_3433952	.	.	754863	755333	.	-	0	ID=fig|6666666.353979.peg.3171;Name=6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+enterobacter_cloacae_contig-22_4594853	.	.	35285	36001	.	-	2	ID=fig|6666666.353979.peg.4330;Name=Putative FMN hydrolase (EC 3.1.3.-), 5-Amino-6-(5'-phosphoribitylamino)uracil phosphatase
+enterobacter_cloacae_contig-15_3433952	.	.	755421	756524	.	-	0	ID=fig|6666666.353979.peg.3172;Name=Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+enterobacter_cloacae_contig-07_1006554	.	.	309806	310681	.	+	2	ID=fig|6666666.353979.peg.756;Name=Riboflavin kinase (EC 2.7.1.26) / FMN adenylyltransferase (EC 2.7.7.2)
+enterobacter_cloacae_contig-09_1582130	.	.	401797	402387	.	-	1	ID=fig|6666666.353979.peg.1310;Name=GTP cyclohydrolase II (EC 3.5.4.25)
+enterobacter_cloacae_contig-11_2174242	.	.	169121	169762	.	-	2	ID=fig|6666666.353979.peg.1912;Name=Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)
+enterobacter_cloacae_contig-15_3433952	.	.	755421	756524	.	-	0	ID=fig|6666666.353979.peg.3172;Name=Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+enterobacter_cloacae_contig-15_3433952	.	.	231973	232626	.	-	1	ID=fig|6666666.353979.peg.2682;Name=3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12)
+enterobacter_cloacae_contig-11_2174242	.	.	145496	146167	.	-	2	ID=fig|6666666.353979.peg.1886;Name=Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5)
+enterobacter_cloacae_contig-16_3945362	.	.	274479	275615	.	-	0	ID=fig|6666666.353979.peg.3527;Name=Erythronate-4-phosphate dehydrogenase (EC 1.1.1.290)
+enterobacter_cloacae_contig-16_3945362	.	.	487855	488586	.	-	1	ID=fig|6666666.353979.peg.3717;Name=Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)
+enterobacter_cloacae_contig-11_2174242	.	.	143169	144029	.	-	0	ID=fig|6666666.353979.peg.1884;Name=Pyridoxal kinase (EC 2.7.1.35)
+enterobacter_cloacae_contig-16_3945362	.	.	335473	336309	.	-	1	ID=fig|6666666.353979.peg.3585;Name=Pyridoxal kinase (EC 2.7.1.35)
+enterobacter_cloacae_contig-15_3433952	.	.	89278	90297	.	-	1	ID=fig|6666666.353979.peg.2550;Name=D-erythrose-4-phosphate dehydrogenase (EC 1.2.1.72)
+enterobacter_cloacae_contig-14_2571466	.	.	8496	9173	.	+	0	ID=fig|6666666.353979.peg.2208;Name=Nicotinamidase family protein YcaC
+enterobacter_cloacae_contig-07_1006554	.	.	275589	276821	.	+	0	ID=fig|6666666.353979.peg.723;Name=NadR transcriptional regulator / Nicotinamide-nucleotide adenylyltransferase, NadR family (EC 2.7.7.1) / Ribosylnicotinamide kinase (EC 2.7.1.22)
+enterobacter_cloacae_contig-04_388864	.	.	59770	60483	.	+	1	ID=fig|6666666.353979.peg.335;Name=NMN phosphatase (EC 3.1.3.5), Class B acid phosphatase precursor (EC 3.1.3.2)
+enterobacter_cloacae_contig-15_3433952	.	.	427741	428460	.	-	1	ID=fig|6666666.353979.peg.2870;Name=Ribosyl nicotinamide transporter, PnuC-like
+enterobacter_cloacae_contig-15_3433952	.	.	516622	517278	.	+	1	ID=fig|6666666.353979.peg.2945;Name=Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+enterobacter_cloacae_contig-09_1582130	.	.	151529	152095	.	-	2	ID=fig|6666666.353979.peg.1066;Name=Nicotinamidase/isochorismatase family protein
+enterobacter_cloacae_contig-07_1006554	.	.	275589	276821	.	+	0	ID=fig|6666666.353979.peg.723;Name=NadR transcriptional regulator / Nicotinamide-nucleotide adenylyltransferase, NadR family (EC 2.7.7.1) / Ribosylnicotinamide kinase (EC 2.7.1.22)
+enterobacter_cloacae_contig-17_4022676	.	.	22230	23108	.	+	0	ID=fig|6666666.353979.peg.3763;Name=NAD kinase (EC 2.7.1.23)
+enterobacter_cloacae_contig-11_2174242	.	.	266709	267536	.	+	0	ID=fig|6666666.353979.peg.2009;Name=NAD synthetase (EC 6.3.1.5)
+enterobacter_cloacae_contig-07_1006554	.	.	275589	276821	.	+	0	ID=fig|6666666.353979.peg.723;Name=NadR transcriptional regulator / Nicotinamide-nucleotide adenylyltransferase, NadR family (EC 2.7.7.1) / Ribosylnicotinamide kinase (EC 2.7.1.22)
+enterobacter_cloacae_contig-19_4337788	.	.	47066	47914	.	-	2	ID=fig|6666666.353979.peg.4022;Name=Dihydropteroate synthase (EC 2.5.1.15)
+enterobacter_cloacae_contig-28_4828603	.	.	1539	2378	.	+	0	ID=fig|6666666.353979.peg.4592;Name=Dihydropteroate synthase (EC 2.5.1.15)
+enterobacter_cloacae_contig-07_1006554	.	.	432067	432447	.	-	1	ID=fig|6666666.353979.peg.862;Name=Aspartate 1-decarboxylase (EC 4.1.1.11)
+enterobacter_cloacae_contig-13_2287956	.	.	14507	14983	.	+	2	ID=fig|6666666.353979.peg.2167;Name=Cell division protein FtsH (EC 3.4.24.-)
+enterobacter_cloacae_contig-13_2287956	.	.	15090	15281	.	+	0	ID=fig|6666666.353979.peg.2168;Name=Cell division protein FtsH (EC 3.4.24.-)
+enterobacter_cloacae_contig-19_4337788	.	.	48013	49947	.	-	1	ID=fig|6666666.353979.peg.4023;Name=Cell division protein FtsH (EC 3.4.24.-)
+enterobacter_cloacae_contig-07_1006554	.	.	432481	433332	.	-	1	ID=fig|6666666.353979.peg.863;Name=Pantoate--beta-alanine ligase (EC 6.3.2.1)
+enterobacter_cloacae_contig-07_1006554	.	.	434258	434737	.	-	2	ID=fig|6666666.353979.peg.865;Name=2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+enterobacter_cloacae_contig-15_3433952	.	.	242119	242487	.	-	1	ID=fig|6666666.353979.peg.2690;Name=Dihydroneopterin aldolase (EC 4.1.2.25)
+enterobacter_cloacae_contig-11_2174242	.	.	55557	56867	.	+	0	ID=fig|6666666.353979.peg.1775;Name=Catalyzes the cleavage of p-aminobenzoyl-glutamate to p-aminobenzoate and glutamate, subunit A
+enterobacter_cloacae_contig-11_2174242	.	.	58354	59880	.	+	1	ID=fig|6666666.353979.peg.1777;Name=Aminobenzoyl-glutamate transport protein
+enterobacter_cloacae_contig-11_2174242	.	.	56867	58312	.	+	2	ID=fig|6666666.353979.peg.1776;Name=Catalyzes the cleavage of p-aminobenzoyl-glutamate to p-aminobenzoate and glutamate, subunit B
+enterobacter_cloacae_contig-15_3433952	.	.	414791	415849	.	-	2	ID=fig|6666666.353979.peg.2856;Name=Molybdenum transport ATP-binding protein ModC (TC 3.A.1.8.1)
+enterobacter_cloacae_contig-15_3433952	.	.	392615	393100	.	-	2	ID=fig|6666666.353979.peg.2836;Name=Molybdenum cofactor biosynthesis protein MoaC
+enterobacter_cloacae_contig-15_3433952	.	.	391923	392375	.	-	0	ID=fig|6666666.353979.peg.2834;Name=Molybdenum cofactor biosynthesis protein MoaE
+enterobacter_cloacae_contig-23_4699799	.	.	103572	104153	.	+	0	ID=fig|6666666.353979.peg.4461;Name=Molybdopterin-guanine dinucleotide biosynthesis protein MobA
+enterobacter_cloacae_contig-15_3433952	.	.	392377	392622	.	-	1	ID=fig|6666666.353979.peg.2835;Name=Molybdenum cofactor biosynthesis protein MoaD
+enterobacter_cloacae_contig-15_3433952	.	.	393641	394630	.	-	2	ID=fig|6666666.353979.peg.2838;Name=Molybdenum cofactor biosynthesis protein MoaA
+enterobacter_cloacae_contig-23_4699799	.	.	104153	104656	.	+	2	ID=fig|6666666.353979.peg.4462;Name=Molybdopterin-guanine dinucleotide biosynthesis protein MobB
+enterobacter_cloacae_contig-15_3433952	.	.	336586	337338	.	+	1	ID=fig|6666666.353979.peg.2784;Name=Molybdopterin biosynthesis protein MoeB
+enterobacter_cloacae_contig-15_3433952	.	.	415852	416541	.	-	1	ID=fig|6666666.353979.peg.2857;Name=Molybdenum transport system permease protein ModB (TC 3.A.1.8.1)
+enterobacter_cloacae_contig-15_3433952	.	.	417770	418558	.	+	2	ID=fig|6666666.353979.peg.2861;Name=DNA-binding domain of ModE / Molybdate-binding domain of ModE
+enterobacter_cloacae_contig-15_3433952	.	.	335352	336584	.	+	0	ID=fig|6666666.353979.peg.2783;Name=Molybdopterin biosynthesis protein MoeA
+enterobacter_cloacae_contig-09_1582130	.	.	401797	402387	.	-	1	ID=fig|6666666.353979.peg.1310;Name=GTP cyclohydrolase II (EC 3.5.4.25)
+enterobacter_cloacae_contig-15_3433952	.	.	416541	417314	.	-	0	ID=fig|6666666.353979.peg.2858;Name=Molybdenum ABC transporter, periplasmic molybdenum-binding protein ModA (TC 3.A.1.8.1)
+enterobacter_cloacae_contig-15_3433952	.	.	393104	393616	.	-	2	ID=fig|6666666.353979.peg.2837;Name=Molybdenum cofactor biosynthesis protein MoaB
+enterobacter_cloacae_contig-15_3433952	.	.	417770	418558	.	+	2	ID=fig|6666666.353979.peg.2861;Name=DNA-binding domain of ModE / Molybdate-binding domain of ModE
+enterobacter_cloacae_contig-07_1006554	.	.	300782	301369	.	+	2	ID=fig|6666666.353979.peg.747;Name=Molybdopterin biosynthesis molybdochelatase MogA
+enterobacter_cloacae_contig-19_4337788	.	.	47066	47914	.	-	2	ID=fig|6666666.353979.peg.4022;Name=Dihydropteroate synthase (EC 2.5.1.15)
+enterobacter_cloacae_contig-28_4828603	.	.	1539	2378	.	+	0	ID=fig|6666666.353979.peg.4592;Name=Dihydropteroate synthase (EC 2.5.1.15)
+enterobacter_cloacae_contig-16_3945362	.	.	259716	260084	.	+	0	ID=fig|6666666.353979.peg.3510;Name=Dihydroneopterin triphosphate epimerase
+enterobacter_cloacae_contig-07_1006554	.	.	324350	324829	.	+	2	ID=fig|6666666.353979.peg.767;Name=Dihydrofolate reductase (EC 1.5.1.3)
+enterobacter_cloacae_contig-10_1846796	.	.	97767	98303	.	+	0	ID=fig|6666666.353979.peg.1580;Name=Dihydrofolate reductase (EC 1.5.1.3)
+enterobacter_cloacae_contig-11_2174242	.	.	2976	3560	.	-	0	ID=fig|6666666.353979.peg.1728;Name=Dihydrofolate reductase (EC 1.5.1.3)
+enterobacter_cloacae_contig-11_2174242	.	.	68806	69528	.	+	1	ID=fig|6666666.353979.peg.1787;Name=FolM Alternative dihydrofolate reductase 1
+enterobacter_cloacae_contig-07_1006554	.	.	434258	434737	.	-	2	ID=fig|6666666.353979.peg.865;Name=2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+enterobacter_cloacae_contig-15_3433952	.	.	242119	242487	.	-	1	ID=fig|6666666.353979.peg.2690;Name=Dihydroneopterin aldolase (EC 4.1.2.25)
+enterobacter_cloacae_contig-07_1006554	.	.	324350	324829	.	+	2	ID=fig|6666666.353979.peg.767;Name=Dihydrofolate reductase (EC 1.5.1.3)
+enterobacter_cloacae_contig-10_1846796	.	.	97767	98303	.	+	0	ID=fig|6666666.353979.peg.1580;Name=Dihydrofolate reductase (EC 1.5.1.3)
+enterobacter_cloacae_contig-11_2174242	.	.	2976	3560	.	-	0	ID=fig|6666666.353979.peg.1728;Name=Dihydrofolate reductase (EC 1.5.1.3)
+enterobacter_cloacae_contig-16_3945362	.	.	93308	94078	.	-	2	ID=fig|6666666.353979.peg.3360;Name=Hydroxyethylthiazole kinase (EC 2.7.1.50)
+enterobacter_cloacae_contig-15_3433952	.	.	753373	754344	.	-	1	ID=fig|6666666.353979.peg.3169;Name=Thiamine-monophosphate kinase (EC 2.7.4.16)
+enterobacter_cloacae_contig-12_2246463	.	.	28253	28819	.	-	2	ID=fig|6666666.353979.peg.2100;Name=Thiamine kinase (EC 2.7.1.89) @ Adenosylcobinamide kinase (EC 2.7.1.156)
+enterobacter_cloacae_contig-02_285060	.	.	100371	101006	.	-	0	ID=fig|6666666.353979.peg.249;Name=Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+enterobacter_cloacae_contig-15_3433952	.	.	523968	524231	.	+	0	ID=fig|6666666.353979.peg.2952;Name=Proposed lipoate regulatory protein YbeD
+enterobacter_cloacae_contig-15_3433952	.	.	524326	524967	.	+	1	ID=fig|6666666.353979.peg.2953;Name=Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase
+enterobacter_cloacae_contig-07_1006554	.	.	271370	272386	.	-	2	ID=fig|6666666.353979.peg.719;Name=Lipoate-protein ligase A
+enterobacter_cloacae_contig-07_1006554	.	.	272426	273070	.	-	2	ID=fig|6666666.353979.peg.720;Name=Lipoate-protein ligase A
+enterobacter_cloacae_contig-15_3433952	.	.	526420	527385	.	+	1	ID=fig|6666666.353979.peg.2955;Name=Lipoate synthase
+enterobacter_cloacae_contig-07_1006554	.	.	433344	434135	.	-	0	ID=fig|6666666.353979.peg.864;Name=3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+enterobacter_cloacae_contig-07_1006554	.	.	432481	433332	.	-	1	ID=fig|6666666.353979.peg.863;Name=Pantoate--beta-alanine ligase (EC 6.3.2.1)
+enterobacter_cloacae_contig-07_1006554	.	.	432067	432447	.	-	1	ID=fig|6666666.353979.peg.862;Name=Aspartate 1-decarboxylase (EC 4.1.1.11)
+enterobacter_cloacae_contig-19_4337788	.	.	131654	133105	.	+	2	ID=fig|6666666.353979.peg.4105;Name=Pantothenate:Na+ symporter (TC 2.A.21.1.1)
+enterobacter_cloacae_contig-07_1006554	.	.	433344	434135	.	-	0	ID=fig|6666666.353979.peg.864;Name=3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+enterobacter_cloacae_contig-02_285060	.	.	79479	80429	.	-	0	ID=fig|6666666.353979.peg.230;Name=Pantothenate kinase (EC 2.7.1.33)
+enterobacter_cloacae_contig-07_1006554	.	.	432067	432447	.	-	1	ID=fig|6666666.353979.peg.862;Name=Aspartate 1-decarboxylase (EC 4.1.1.11)
+enterobacter_cloacae_contig-15_3433952	.	.	617591	618481	.	-	2	ID=fig|6666666.353979.peg.3041;Name=2-dehydropantoate 2-reductase (EC 1.1.1.169)
+enterobacter_cloacae_contig-15_3433952	.	.	745646	746557	.	+	2	ID=fig|6666666.353979.peg.3162;Name=2-dehydropantoate 2-reductase (EC 1.1.1.169)
+enterobacter_cloacae_contig-01_173412	.	.	144054	144533	.	-	0	ID=fig|6666666.353979.peg.131;Name=Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+enterobacter_cloacae_contig-01_173412	.	.	140474	141688	.	-	2	ID=fig|6666666.353979.peg.126;Name=Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+enterobacter_cloacae_contig-01_173412	.	.	140474	141688	.	-	2	ID=fig|6666666.353979.peg.126;Name=Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+enterobacter_cloacae_contig-07_1006554	.	.	432481	433332	.	-	1	ID=fig|6666666.353979.peg.863;Name=Pantoate--beta-alanine ligase (EC 6.3.2.1)

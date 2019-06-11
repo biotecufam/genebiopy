@@ -1,0 +1,213 @@
+﻿##gff-version 3
+enterobacter_cloacae_contig-03_305716	.	.	14798	15670	.	+	2	ID=fig|6666666.353979.peg.269;Name=Ribosomal large subunit pseudouridine synthase F (EC 4.2.1.70)
+enterobacter_cloacae_contig-07_1006554	.	.	332681	333340	.	-	2	ID=fig|6666666.353979.peg.775;Name=Ribosomal large subunit pseudouridine synthase A (EC 4.2.1.70)
+enterobacter_cloacae_contig-10_1846796	.	.	173568	174254	.	+	0	ID=fig|6666666.353979.peg.1630;Name=Ribosomal large subunit pseudouridine synthase A (EC 4.2.1.70)
+enterobacter_cloacae_contig-11_2174242	.	.	317432	318085	.	+	2	ID=fig|6666666.353979.peg.2063;Name=Ribosomal large subunit pseudouridine synthase E (EC 4.2.1.70)
+enterobacter_cloacae_contig-17_4022676	.	.	3773	4753	.	-	2	ID=fig|6666666.353979.peg.3741;Name=Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)
+enterobacter_cloacae_contig-12_2246463	.	.	43807	44727	.	-	1	ID=fig|6666666.353979.peg.2120;Name=Ribosomal large subunit pseudouridine synthase C (EC 4.2.1.70)
+enterobacter_cloacae_contig-09_1582130	.	.	390035	390910	.	+	2	ID=fig|6666666.353979.peg.1299;Name=Ribosomal large subunit pseudouridine synthase B (EC 4.2.1.70)
+enterobacter_cloacae_contig-19_4337788	.	.	36913	37863	.	-	1	ID=fig|6666666.353979.peg.4014;Name=tRNA pseudouridine synthase B (EC 4.2.1.70)
+enterobacter_cloacae_contig-16_3945362	.	.	173458	174165	.	-	1	ID=fig|6666666.353979.peg.3435;Name=Ribosomal small subunit pseudouridine synthase A (EC 4.2.1.70)
+enterobacter_cloacae_contig-18_4188565	.	.	149828	150604	.	-	2	ID=fig|6666666.353979.peg.3961;Name=tRNA pseudouridine synthase C (EC 4.2.1.70)
+enterobacter_cloacae_contig-16_3945362	.	.	272586	273398	.	-	0	ID=fig|6666666.353979.peg.3525;Name=tRNA pseudouridine synthase A (EC 4.2.1.70)
+enterobacter_cloacae_contig-15_3433952	.	.	239939	241180	.	+	2	ID=fig|6666666.353979.peg.2688;Name=tRNA nucleotidyltransferase (EC 2.7.7.21) (EC 2.7.7.25)
+enterobacter_cloacae_contig-19_4337788	.	.	34108	36246	.	-	1	ID=fig|6666666.353979.peg.4012;Name=Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+enterobacter_cloacae_contig-07_1006554	.	.	434734	436098	.	-	1	ID=fig|6666666.353979.peg.866;Name=Poly(A) polymerase (EC 2.7.7.19)
+enterobacter_cloacae_contig-07_1006554	.	.	51485	51796	.	+	2	ID=fig|6666666.353979.peg.515;Name=RNA-binding protein Hfq
+enterobacter_cloacae_contig-07_1006554	.	.	329246	331597	.	-	2	ID=fig|6666666.353979.peg.773;Name=Outer membrane protein Imp, required for envelope biogenesis / Organic solvent tolerance protein precursor
+enterobacter_cloacae_contig-07_1006554	.	.	324868	325716	.	-	1	ID=fig|6666666.353979.peg.768;Name=Bis(5'-nucleosyl)-tetraphosphatase, symmetrical (EC 3.6.1.41)
+enterobacter_cloacae_contig-07_1006554	.	.	326920	327906	.	-	1	ID=fig|6666666.353979.peg.771;Name=4-hydroxythreonine-4-phosphate dehydrogenase (EC 1.1.1.262)
+enterobacter_cloacae_contig-07_1006554	.	.	327906	329192	.	-	0	ID=fig|6666666.353979.peg.772;Name=Survival protein SurA precursor (Peptidyl-prolyl cis-trans isomerase SurA) (EC 5.2.1.8)
+enterobacter_cloacae_contig-09_1582130	.	.	211989	212684	.	+	0	ID=fig|6666666.353979.peg.1125;Name=TsaB protein, required for threonylcarbamoyladenosine (t(6)A) formation in tRNA
+enterobacter_cloacae_contig-07_1006554	.	.	326102	326923	.	-	2	ID=fig|6666666.353979.peg.770;Name=SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+enterobacter_cloacae_contig-15_3433952	.	.	248861	249874	.	-	2	ID=fig|6666666.353979.peg.2700;Name=TsaD/Kae1/Qri7 protein, required for threonylcarbamoyladenosine t(6)A37 formation in tRNA
+enterobacter_cloacae_contig-07_1006554	.	.	331836	332651	.	+	0	ID=fig|6666666.353979.peg.774;Name=DnaJ-like protein DjlA
+enterobacter_cloacae_contig-07_1006554	.	.	325721	326098	.	-	2	ID=fig|6666666.353979.peg.769;Name=ApaG protein
+enterobacter_cloacae_contig-07_1006554	.	.	258445	258888	.	+	1	ID=fig|6666666.353979.peg.706;Name=Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.-)
+enterobacter_cloacae_contig-07_1006554	.	.	329246	331597	.	-	2	ID=fig|6666666.353979.peg.773;Name=Outer membrane protein Imp, required for envelope biogenesis / Organic solvent tolerance protein precursor
+enterobacter_cloacae_contig-07_1006554	.	.	46787	47248	.	+	2	ID=fig|6666666.353979.peg.511;Name=TsaE protein, required for threonylcarbamoyladenosine t(6)A37 formation in tRNA
+enterobacter_cloacae_contig-15_3433952	.	.	239939	241180	.	+	2	ID=fig|6666666.353979.peg.2688;Name=tRNA nucleotidyltransferase (EC 2.7.7.21) (EC 2.7.7.25)
+enterobacter_cloacae_contig-15_3433952	.	.	501398	502822	.	+	2	ID=fig|6666666.353979.peg.2931;Name=tRNA-i(6)A37 methylthiotransferase
+enterobacter_cloacae_contig-15_3433952	.	.	327552	328877	.	+	0	ID=fig|6666666.353979.peg.2777;Name=Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase
+enterobacter_cloacae_contig-07_1006554	.	.	57806	60247	.	+	2	ID=fig|6666666.353979.peg.522;Name=3'-to-5' exoribonuclease RNase R
+enterobacter_cloacae_contig-15_3433952	.	.	532125	532934	.	+	0	ID=fig|6666666.353979.peg.2962;Name=Ribonuclease I precursor (EC 3.1.27.6)
+enterobacter_cloacae_contig-09_1582130	.	.	411176	413110	.	-	2	ID=fig|6666666.353979.peg.1321;Name=Exoribonuclease II (EC 3.1.13.1)
+enterobacter_cloacae_contig-23_4699799	.	.	41864	42349	.	+	2	ID=fig|6666666.353979.peg.4403;Name=Ribonuclease E inhibitor RraA
+enterobacter_cloacae_contig-07_1006554	.	.	42821	43366	.	+	2	ID=fig|6666666.353979.peg.508;Name=3'-to-5' oligoribonuclease (orn)
+enterobacter_cloacae_contig-19_4337788	.	.	119053	120522	.	-	1	ID=fig|6666666.353979.peg.4091;Name=Cytoplasmic axial filament protein CafA and Ribonuclease G (EC 3.1.4.-)
+enterobacter_cloacae_contig-07_1006554	.	.	146105	146530	.	+	2	ID=fig|6666666.353979.peg.603;Name=Ribonuclease E inhibitor RraB
+enterobacter_cloacae_contig-16_3945362	.	.	490246	490965	.	-	1	ID=fig|6666666.353979.peg.3720;Name=Ribonuclease III (EC 3.1.26.3)
+enterobacter_cloacae_contig-12_2246463	.	.	45337	48444	.	+	1	ID=fig|6666666.353979.peg.2121;Name=Ribonuclease E (EC 3.1.26.12)
+enterobacter_cloacae_contig-07_1006554	.	.	290882	291568	.	+	2	ID=fig|6666666.353979.peg.738;Name=tRNA:Cm32/Um32 methyltransferase
+enterobacter_cloacae_contig-16_3945362	.	.	456305	457033	.	-	2	ID=fig|6666666.353979.peg.3692;Name=tRNA:Cm32/Um32 methyltransferase
+enterobacter_cloacae_contig-01_173412	.	.	130341	131030	.	-	0	ID=fig|6666666.353979.peg.114;Name=tRNA (guanosine(18)-2'-O)-methyltransferase (EC 2.1.1.34)
+enterobacter_cloacae_contig-16_3945362	.	.	498834	499571	.	-	0	ID=fig|6666666.353979.peg.3728;Name=tRNA (adenine37-N(6))-methyltransferase TrmN6 (EC 2.1.1.223)
+enterobacter_cloacae_contig-15_3433952	.	.	101951	102682	.	+	2	ID=fig|6666666.353979.peg.2559;Name=Ribosomal RNA small subunit methyltransferase E (EC 2.1.1.-)
+enterobacter_cloacae_contig-15_3433952	.	.	369040	369951	.	-	1	ID=fig|6666666.353979.peg.2811;Name=Ribosomal RNA large subunit methyltransferase F (EC 2.1.1.51)
+enterobacter_cloacae_contig-19_4337788	.	.	50050	50676	.	-	1	ID=fig|6666666.353979.peg.4024;Name=Heat shock protein FtsJ/RrmJ @ Ribosomal RNA large subunit methyltransferase E (EC 2.1.1.-)
+enterobacter_cloacae_contig-15_3433952	.	.	110328	111047	.	-	0	ID=fig|6666666.353979.peg.2571;Name=tRNA (guanine46-N7-)-methyltransferase (EC 2.1.1.33)
+enterobacter_cloacae_contig-16_3945362	.	.	279539	281536	.	+	2	ID=fig|6666666.353979.peg.3531;Name=tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase (EC 2.1.1.61)
+enterobacter_cloacae_contig-16_3945362	.	.	502516	503616	.	-	1	ID=fig|6666666.353979.peg.3732;Name=hypothetical tRNA/rRNA methyltransferase yfiF [EC:2.1.1.-]
+enterobacter_cloacae_contig-18_4188565	.	.	158663	159763	.	-	2	ID=fig|6666666.353979.peg.3969;Name=LSU rRNA 2'-O-methyl-C2498 methyltransferase RlmM
+enterobacter_cloacae_contig-01_173412	.	.	168593	169066	.	-	2	ID=fig|6666666.353979.peg.155;Name=tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)
+enterobacter_cloacae_contig-01_173412	.	.	18043	18666	.	+	1	ID=fig|6666666.353979.peg.16;Name=rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB
+enterobacter_cloacae_contig-15_3433952	.	.	517869	518336	.	+	0	ID=fig|6666666.353979.peg.2947;Name=LSU m3Psi1915 methyltransferase RlmH
+enterobacter_cloacae_contig-14_2571466	.	.	271329	272456	.	-	0	ID=fig|6666666.353979.peg.2461;Name=23S rRNA (Uracil-5-) -methyltransferase rumB (EC 2.1.1.-)
+enterobacter_cloacae_contig-04_388864	.	.	18161	18763	.	-	2	ID=fig|6666666.353979.peg.292;Name=16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+enterobacter_cloacae_contig-09_1582130	.	.	197094	197909	.	+	0	ID=fig|6666666.353979.peg.1111;Name=Ribosomal RNA large subunit methyltransferase A (EC 2.1.1.51)
+enterobacter_cloacae_contig-18_4188565	.	.	139634	140932	.	-	2	ID=fig|6666666.353979.peg.3954;Name=23S rRNA (Uracil-5-) -methyltransferase RumA (EC 2.1.1.-)
+enterobacter_cloacae_contig-14_2571466	.	.	129465	130703	.	+	0	ID=fig|6666666.353979.peg.2337;Name=LSU m5C1962 methyltransferase RlmI
+enterobacter_cloacae_contig-07_1006554	.	.	326102	326923	.	-	2	ID=fig|6666666.353979.peg.770;Name=SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
+enterobacter_cloacae_contig-07_1006554	.	.	60317	61048	.	+	2	ID=fig|6666666.353979.peg.523;Name=23S rRNA (guanosine-2'-O-) -methyltransferase rlmB (EC 2.1.1.-)
+enterobacter_cloacae_contig-16_3945362	.	.	438118	439284	.	-	1	ID=fig|6666666.353979.peg.3677;Name=Ribosomal RNA large subunit methyltransferase N (EC 2.1.1.-)
+enterobacter_cloacae_contig-17_4022676	.	.	16117	16884	.	-	1	ID=fig|6666666.353979.peg.3755;Name=tRNA (Guanine37-N1) -methyltransferase (EC 2.1.1.31)
+enterobacter_cloacae_contig-14_2571466	.	.	149428	151536	.	-	1	ID=fig|6666666.353979.peg.2355;Name=23S rRNA (guanine-N-2-) -methyltransferase rlmL EC 2.1.1.-)
+enterobacter_cloacae_contig-15_3433952	.	.	276781	277917	.	-	1	ID=fig|6666666.353979.peg.2723;Name=23S rRNA (guanine-N-2-) -methyltransferase rlmG (EC 2.1.1.-)
+enterobacter_cloacae_contig-09_1582130	.	.	179865	181307	.	-	0	ID=fig|6666666.353979.peg.1095;Name=Ribosomal RNA small subunit methyltransferase F (EC 2.1.1.-)
+enterobacter_cloacae_contig-11_2174242	.	.	318609	319721	.	+	0	ID=fig|6666666.353979.peg.2065;Name=tRNA-specific 2-thiouridylase MnmA
+enterobacter_cloacae_contig-07_1006554	.	.	256932	257960	.	-	0	ID=fig|6666666.353979.peg.704;Name=Ribosomal RNA small subunit methyltransferase C (EC 2.1.1.52)
+enterobacter_cloacae_contig-15_3433952	.	.	380353	381732	.	-	1	ID=fig|6666666.353979.peg.2822;Name=ATP-dependent RNA helicase RhlE
+enterobacter_cloacae_contig-22_4594853	.	.	63344	64609	.	+	2	ID=fig|6666666.353979.peg.4355;Name=ATP-dependent RNA helicase RhlB
+enterobacter_cloacae_contig-09_1582130	.	.	442063	443436	.	+	1	ID=fig|6666666.353979.peg.1349;Name=ATP-dependent 23S rRNA helicase DbpA
+enterobacter_cloacae_contig-16_3945362	.	.	499704	501032	.	+	0	ID=fig|6666666.353979.peg.3729;Name=ATP-dependent RNA helicase SrmB
+enterobacter_cloacae_contig-15_3433952	.	.	518366	520267	.	+	2	ID=fig|6666666.353979.peg.2948;Name=Penicillin-binding protein 2 (PBP-2)
+enterobacter_cloacae_contig-07_1006554	.	.	365852	367618	.	+	2	ID=fig|6666666.353979.peg.802;Name=Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+enterobacter_cloacae_contig-09_1582130	.	.	195313	197028	.	+	1	ID=fig|6666666.353979.peg.1110;Name=Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+enterobacter_cloacae_contig-07_1006554	.	.	364072	364530	.	+	1	ID=fig|6666666.353979.peg.799;Name=Cell division protein MraZ
+enterobacter_cloacae_contig-07_1006554	.	.	364533	365474	.	+	0	ID=fig|6666666.353979.peg.800;Name=rRNA small subunit methyltransferase H
+enterobacter_cloacae_contig-19_4337788	.	.	17612	18475	.	-	2	ID=fig|6666666.353979.peg.3994;Name=rRNA small subunit methyltransferase I
+enterobacter_cloacae_contig-07_1006554	.	.	365627	365836	.	+	2	ID=fig|6666666.353979.peg.801;Name=Cell division protein FtsL
+enterobacter_cloacae_contig-01_173412	.	.	130341	131030	.	-	0	ID=fig|6666666.353979.peg.114;Name=tRNA (guanosine(18)-2'-O)-methyltransferase (EC 2.1.1.34)
+enterobacter_cloacae_contig-07_1006554	.	.	332681	333340	.	-	2	ID=fig|6666666.353979.peg.775;Name=Ribosomal large subunit pseudouridine synthase A (EC 4.2.1.70)
+enterobacter_cloacae_contig-10_1846796	.	.	173568	174254	.	+	0	ID=fig|6666666.353979.peg.1630;Name=Ribosomal large subunit pseudouridine synthase A (EC 4.2.1.70)
+enterobacter_cloacae_contig-09_1582130	.	.	443479	444414	.	-	1	ID=fig|6666666.353979.peg.1350;Name=tRNA(Cytosine32)-2-thiocytidine synthetase
+enterobacter_cloacae_contig-07_1006554	.	.	487744	489033	.	+	1	ID=fig|6666666.353979.peg.909;Name=tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+enterobacter_cloacae_contig-21_4513205	.	.	4345	4731	.	-	1	ID=fig|6666666.353979.peg.4170;Name=tRNA 5-methylaminomethyl-2-thiouridine synthase TusD
+enterobacter_cloacae_contig-21_4513205	.	.	84443	84685	.	-	2	ID=fig|6666666.353979.peg.4243;Name=tRNA 5-methylaminomethyl-2-thiouridine synthase TusA
+enterobacter_cloacae_contig-11_2174242	.	.	190929	191675	.	-	0	ID=fig|6666666.353979.peg.1936;Name=Iron-sulfur cluster assembly ATPase protein SufC
+enterobacter_cloacae_contig-21_4513205	.	.	3986	4345	.	-	2	ID=fig|6666666.353979.peg.4169;Name=tRNA 5-methylaminomethyl-2-thiouridine synthase TusC
+enterobacter_cloacae_contig-15_3433952	.	.	110328	111047	.	-	0	ID=fig|6666666.353979.peg.2571;Name=tRNA (guanine46-N7-)-methyltransferase (EC 2.1.1.33)
+enterobacter_cloacae_contig-15_3433952	.	.	657847	658917	.	+	1	ID=fig|6666666.353979.peg.3081;Name=Selenophosphate-dependent tRNA 2-selenouridine synthase
+enterobacter_cloacae_contig-07_1006554	.	.	146576	147334	.	+	2	ID=fig|6666666.353979.peg.604;Name=tRNA-(ms[2]io[6]A)-hydroxylase (EC 1.-.-.-)
+enterobacter_cloacae_contig-12_2246463	.	.	34876	35898	.	-	1	ID=fig|6666666.353979.peg.2109;Name=FIG004453: protein YceG like
+enterobacter_cloacae_contig-16_3945362	.	.	130606	131538	.	-	1	ID=fig|6666666.353979.peg.3393;Name=tRNA-dihydrouridine synthase C (EC 1.-.-.-)
+enterobacter_cloacae_contig-18_4188565	.	.	127758	128429	.	-	0	ID=fig|6666666.353979.peg.3945;Name=Queuosine Biosynthesis QueE Radical SAM
+enterobacter_cloacae_contig-18_4188565	.	.	34495	35016	.	+	1	ID=fig|6666666.353979.peg.3847;Name=Rhodanese-related sulfurtransferases
+enterobacter_cloacae_contig-16_3945362	.	.	450516	450716	.	-	0	ID=fig|6666666.353979.peg.3684;Name=Believed to be involved in assembly of Fe-S clusters
+enterobacter_cloacae_contig-16_3945362	.	.	451055	452905	.	-	2	ID=fig|6666666.353979.peg.3686;Name=Chaperone protein HscA
+enterobacter_cloacae_contig-01_173412	.	.	40512	41876	.	-	0	ID=fig|6666666.353979.peg.40;Name=GTPase and tRNA-U34 5-formylation enzyme TrmE
+enterobacter_cloacae_contig-19_4337788	.	.	134429	135346	.	+	2	ID=fig|6666666.353979.peg.4107;Name=tRNA dihydrouridine synthase B (EC 1.-.-.-)
+enterobacter_cloacae_contig-16_3945362	.	.	132923	133807	.	+	2	ID=fig|6666666.353979.peg.3397;Name=Cytidine deaminase (EC 3.5.4.5)
+enterobacter_cloacae_contig-07_1006554	.	.	50449	51399	.	+	1	ID=fig|6666666.353979.peg.514;Name=tRNA dimethylallyltransferase (EC 2.5.1.75)
+enterobacter_cloacae_contig-07_1006554	.	.	436174	437064	.	-	1	ID=fig|6666666.353979.peg.867;Name=glutamyl-Q-tRNA synthetase
+enterobacter_cloacae_contig-09_1582130	.	.	388428	389321	.	+	0	ID=fig|6666666.353979.peg.1297;Name=COG0613, Predicted metal-dependent phosphoesterases (PHP family)
+enterobacter_cloacae_contig-16_3945362	.	.	272586	273398	.	-	0	ID=fig|6666666.353979.peg.3525;Name=tRNA pseudouridine synthase A (EC 4.2.1.70)
+enterobacter_cloacae_contig-07_1006554	.	.	290882	291568	.	+	2	ID=fig|6666666.353979.peg.738;Name=tRNA:Cm32/Um32 methyltransferase
+enterobacter_cloacae_contig-16_3945362	.	.	456305	457033	.	-	2	ID=fig|6666666.353979.peg.3692;Name=tRNA:Cm32/Um32 methyltransferase
+enterobacter_cloacae_contig-15_3433952	.	.	764462	765532	.	-	2	ID=fig|6666666.353979.peg.3182;Name=S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 5.-.-.-)
+enterobacter_cloacae_contig-09_1582130	.	.	148513	149484	.	-	1	ID=fig|6666666.353979.peg.1062;Name=tRNA (5-methoxyuridine) 34 synthase
+enterobacter_cloacae_contig-16_3945362	.	.	453516	453839	.	-	0	ID=fig|6666666.353979.peg.3688;Name=Iron binding protein IscA for iron-sulfur cluster assembly
+enterobacter_cloacae_contig-16_3945362	.	.	373476	375422	.	-	0	ID=fig|6666666.353979.peg.3617;Name=Predicted P-loop ATPase fused to an acetyltransferase COG1444
+enterobacter_cloacae_contig-16_3945362	.	.	142489	143157	.	-	1	ID=fig|6666666.353979.peg.3405;Name=GTP cyclohydrolase I (EC 3.5.4.16) type 1
+enterobacter_cloacae_contig-15_3433952	.	.	724711	725406	.	+	1	ID=fig|6666666.353979.peg.3143;Name=Queuosine Biosynthesis QueC ATPase
+enterobacter_cloacae_contig-18_4188565	.	.	149828	150604	.	-	2	ID=fig|6666666.353979.peg.3961;Name=tRNA pseudouridine synthase C (EC 4.2.1.70)
+enterobacter_cloacae_contig-16_3945362	.	.	279539	281536	.	+	2	ID=fig|6666666.353979.peg.3531;Name=tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase (EC 2.1.1.61)
+enterobacter_cloacae_contig-16_3945362	.	.	502516	503616	.	-	1	ID=fig|6666666.353979.peg.3732;Name=hypothetical tRNA/rRNA methyltransferase yfiF [EC:2.1.1.-]
+enterobacter_cloacae_contig-21_4513205	.	.	3691	3978	.	-	1	ID=fig|6666666.353979.peg.4168;Name=tRNA 5-methylaminomethyl-2-thiouridine synthase TusB
+enterobacter_cloacae_contig-16_3945362	.	.	453853	454239	.	-	1	ID=fig|6666666.353979.peg.3689;Name=Iron-sulfur cluster assembly scaffold protein IscU
+enterobacter_cloacae_contig-15_3433952	.	.	517869	518336	.	+	0	ID=fig|6666666.353979.peg.2947;Name=LSU m3Psi1915 methyltransferase RlmH
+enterobacter_cloacae_contig-15_3433952	.	.	763281	764408	.	-	0	ID=fig|6666666.353979.peg.3181;Name=tRNA-guanine transglycosylase (EC 2.4.2.29)
+enterobacter_cloacae_contig-07_1006554	.	.	180328	180693	.	-	1	ID=fig|6666666.353979.peg.626;Name=6-carboxytetrahydropterin synthase (EC 4.1.2.50) @ Queuosine biosynthesis QueD, PTPS-I
+enterobacter_cloacae_contig-18_4188565	.	.	127367	127729	.	+	2	ID=fig|6666666.353979.peg.3944;Name=6-carboxytetrahydropterin synthase (EC 4.1.2.50) @ Queuosine biosynthesis QueD, PTPS-I
+enterobacter_cloacae_contig-04_388864	.	.	53165	54160	.	+	2	ID=fig|6666666.353979.peg.329;Name=tRNA dihydrouridine synthase A (EC 1.-.-.-)
+enterobacter_cloacae_contig-15_3433952	.	.	501398	502822	.	+	2	ID=fig|6666666.353979.peg.2931;Name=tRNA-i(6)A37 methylthiotransferase
+enterobacter_cloacae_contig-01_173412	.	.	16045	17934	.	+	1	ID=fig|6666666.353979.peg.15;Name=tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+enterobacter_cloacae_contig-07_1006554	.	.	493284	493991	.	-	0	ID=fig|6666666.353979.peg.916;Name=COG1720: Uncharacterized conserved protein
+enterobacter_cloacae_contig-09_1582130	.	.	149481	150224	.	-	0	ID=fig|6666666.353979.peg.1063;Name=tRNA (uridine-5-oxyacetic acid methyl ester) 34 synthase
+enterobacter_cloacae_contig-16_3945362	.	.	450718	451053	.	-	1	ID=fig|6666666.353979.peg.3685;Name=Ferredoxin, 2Fe-2S
+enterobacter_cloacae_contig-16_3945362	.	.	452920	453435	.	-	1	ID=fig|6666666.353979.peg.3687;Name=Chaperone protein HscB
+enterobacter_cloacae_contig-18_4188565	.	.	114023	115072	.	-	2	ID=fig|6666666.353979.peg.3931;Name=tRNA pseudouridine 13 synthase (EC 4.2.1.-)
+enterobacter_cloacae_contig-11_2174242	.	.	288255	289298	.	-	0	ID=fig|6666666.353979.peg.2030;Name=Selenide,water dikinase (EC 2.7.9.3)
+enterobacter_cloacae_contig-19_4337788	.	.	36913	37863	.	-	1	ID=fig|6666666.353979.peg.4014;Name=tRNA pseudouridine synthase B (EC 4.2.1.70)
+enterobacter_cloacae_contig-11_2174242	.	.	189683	190954	.	-	2	ID=fig|6666666.353979.peg.1935;Name=Iron-sulfur cluster assembly protein SufD
+enterobacter_cloacae_contig-17_4022676	.	.	16117	16884	.	-	1	ID=fig|6666666.353979.peg.3755;Name=tRNA (Guanine37-N1) -methyltransferase (EC 2.1.1.31)
+enterobacter_cloacae_contig-16_3945362	.	.	454264	455478	.	-	1	ID=fig|6666666.353979.peg.3690;Name=Cysteine desulfurase (EC 2.8.1.7), IscS subfamily
+enterobacter_cloacae_contig-11_2174242	.	.	188466	189686	.	-	0	ID=fig|6666666.353979.peg.1934;Name=Cysteine desulfurase (EC 2.8.1.7), SufS subfamily
+enterobacter_cloacae_contig-11_2174242	.	.	191685	193175	.	-	0	ID=fig|6666666.353979.peg.1937;Name=Iron-sulfur cluster assembly protein SufB
+enterobacter_cloacae_contig-01_173412	.	.	16045	17934	.	+	1	ID=fig|6666666.353979.peg.15;Name=tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+enterobacter_cloacae_contig-18_4188565	.	.	161876	163081	.	+	2	ID=fig|6666666.353979.peg.3973;Name=Cysteine desulfurase CsdA-CsdE (EC 2.8.1.7), main protein CsdA
+enterobacter_cloacae_contig-21_4513205	.	.	4345	4731	.	-	1	ID=fig|6666666.353979.peg.4170;Name=tRNA 5-methylaminomethyl-2-thiouridine synthase TusD
+enterobacter_cloacae_contig-21_4513205	.	.	84443	84685	.	-	2	ID=fig|6666666.353979.peg.4243;Name=tRNA 5-methylaminomethyl-2-thiouridine synthase TusA
+enterobacter_cloacae_contig-21_4513205	.	.	3986	4345	.	-	2	ID=fig|6666666.353979.peg.4169;Name=tRNA 5-methylaminomethyl-2-thiouridine synthase TusC
+enterobacter_cloacae_contig-01_173412	.	.	40512	41876	.	-	0	ID=fig|6666666.353979.peg.40;Name=GTPase and tRNA-U34 5-formylation enzyme TrmE
+enterobacter_cloacae_contig-16_3945362	.	.	279539	281536	.	+	2	ID=fig|6666666.353979.peg.3531;Name=tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase (EC 2.1.1.61)
+enterobacter_cloacae_contig-16_3945362	.	.	454264	455478	.	-	1	ID=fig|6666666.353979.peg.3690;Name=Cysteine desulfurase (EC 2.8.1.7), IscS subfamily
+enterobacter_cloacae_contig-11_2174242	.	.	188466	189686	.	-	0	ID=fig|6666666.353979.peg.1934;Name=Cysteine desulfurase (EC 2.8.1.7), SufS subfamily
+enterobacter_cloacae_contig-21_4513205	.	.	3691	3978	.	-	1	ID=fig|6666666.353979.peg.4168;Name=tRNA 5-methylaminomethyl-2-thiouridine synthase TusB
+enterobacter_cloacae_contig-15_3433952	.	.	853855	854322	.	+	1	ID=fig|6666666.353979.peg.3271;Name=Ribonuclease HI (EC 3.1.26.4)
+enterobacter_cloacae_contig-07_1006554	.	.	479908	480504	.	+	1	ID=fig|6666666.353979.peg.904;Name=Ribonuclease HII (EC 3.1.26.4)
+enterobacter_cloacae_contig-07_1006554	.	.	180328	180693	.	-	1	ID=fig|6666666.353979.peg.626;Name=6-carboxytetrahydropterin synthase (EC 4.1.2.50) @ Queuosine biosynthesis QueD, PTPS-I
+enterobacter_cloacae_contig-18_4188565	.	.	127367	127729	.	+	2	ID=fig|6666666.353979.peg.3944;Name=6-carboxytetrahydropterin synthase (EC 4.1.2.50) @ Queuosine biosynthesis QueD, PTPS-I
+enterobacter_cloacae_contig-18_4188565	.	.	127758	128429	.	-	0	ID=fig|6666666.353979.peg.3945;Name=Queuosine Biosynthesis QueE Radical SAM
+enterobacter_cloacae_contig-15_3433952	.	.	510705	511646	.	+	0	ID=fig|6666666.353979.peg.2940;Name=Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)
+enterobacter_cloacae_contig-21_4513205	.	.	84853	85518	.	+	1	ID=fig|6666666.353979.peg.4244;Name=Putative preQ0 transporter
+enterobacter_cloacae_contig-15_3433952	.	.	764462	765532	.	-	2	ID=fig|6666666.353979.peg.3182;Name=S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 5.-.-.-)
+enterobacter_cloacae_contig-09_1582130	.	.	55849	56763	.	-	1	ID=fig|6666666.353979.peg.968;Name=Permease of the drug/metabolite transporter (DMT) superfamily
+enterobacter_cloacae_contig-09_1582130	.	.	318266	319165	.	-	2	ID=fig|6666666.353979.peg.1219;Name=Permease of the drug/metabolite transporter (DMT) superfamily
+enterobacter_cloacae_contig-09_1582130	.	.	553157	554035	.	-	2	ID=fig|6666666.353979.peg.1465;Name=Permease of the drug/metabolite transporter (DMT) superfamily
+enterobacter_cloacae_contig-10_1846796	.	.	86286	87191	.	-	0	ID=fig|6666666.353979.peg.1568;Name=Permease of the drug/metabolite transporter (DMT) superfamily
+enterobacter_cloacae_contig-10_1846796	.	.	104168	105064	.	+	2	ID=fig|6666666.353979.peg.1587;Name=Permease of the drug/metabolite transporter (DMT) superfamily
+enterobacter_cloacae_contig-14_2571466	.	.	37933	38850	.	-	1	ID=fig|6666666.353979.peg.2234;Name=Permease of the drug/metabolite transporter (DMT) superfamily
+enterobacter_cloacae_contig-19_4337788	.	.	56313	57278	.	-	0	ID=fig|6666666.353979.peg.4031;Name=Permease of the drug/metabolite transporter (DMT) superfamily
+enterobacter_cloacae_contig-15_3433952	.	.	107895	109037	.	+	0	ID=fig|6666666.353979.peg.2568;Name=Radical SAM family enzyme, similar to coproporphyrinogen III oxidase, oxygen-independent, clustered with nucleoside-triphosphatase RdgB
+enterobacter_cloacae_contig-15_3433952	.	.	819473	819613	.	-	2	ID=fig|6666666.353979.peg.3237;Name=Radical SAM family enzyme, similar to coproporphyrinogen III oxidase, oxygen-independent, clustered with nucleoside-triphosphatase RdgB
+enterobacter_cloacae_contig-07_1006554	.	.	158764	160014	.	+	1	ID=fig|6666666.353979.peg.615;Name=archaeosine tRNA-ribosyltransferase (EC 2.4.2.-) type 5
+enterobacter_cloacae_contig-09_1582130	.	.	154134	154577	.	+	0	ID=fig|6666666.353979.peg.1068;Name=Dihydroneopterin triphosphate pyrophosphohydolase type 2
+enterobacter_cloacae_contig-07_1006554	.	.	44133	45272	.	-	0	ID=fig|6666666.353979.peg.509;Name=Epoxyqueuosine (oQ) reductase QueG
+enterobacter_cloacae_contig-16_3945362	.	.	142489	143157	.	-	1	ID=fig|6666666.353979.peg.3405;Name=GTP cyclohydrolase I (EC 3.5.4.16) type 1
+enterobacter_cloacae_contig-15_3433952	.	.	724711	725406	.	+	1	ID=fig|6666666.353979.peg.3143;Name=Queuosine Biosynthesis QueC ATPase
+enterobacter_cloacae_contig-07_1006554	.	.	436174	437064	.	-	1	ID=fig|6666666.353979.peg.867;Name=glutamyl-Q-tRNA synthetase
+enterobacter_cloacae_contig-15_3433952	.	.	654451	654945	.	+	1	ID=fig|6666666.353979.peg.3076;Name=Peptidyl-prolyl cis-trans isomerase PpiB (EC 5.2.1.8)
+enterobacter_cloacae_contig-15_3433952	.	.	763281	764408	.	-	0	ID=fig|6666666.353979.peg.3181;Name=tRNA-guanine transglycosylase (EC 2.4.2.29)
+enterobacter_cloacae_contig-01_173412	.	.	43818	44144	.	-	0	ID=fig|6666666.353979.peg.42;Name=Ribonuclease P protein component (EC 3.1.26.5)
+enterobacter_cloacae_contig-15_3433952	.	.	501398	502822	.	+	2	ID=fig|6666666.353979.peg.2931;Name=tRNA-i(6)A37 methylthiotransferase
+enterobacter_cloacae_contig-09_1582130	.	.	215237	216391	.	+	2	ID=fig|6666666.353979.peg.1128;Name=Ribonuclease D (EC 3.1.26.3)
+enterobacter_cloacae_contig-11_2174242	.	.	159760	160410	.	+	1	ID=fig|6666666.353979.peg.1902;Name=Ribonuclease T (EC 3.1.13.-)
+enterobacter_cloacae_contig-07_1006554	.	.	487744	489033	.	+	1	ID=fig|6666666.353979.peg.909;Name=tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
+enterobacter_cloacae_contig-18_4188565	.	.	114023	115072	.	-	2	ID=fig|6666666.353979.peg.3931;Name=tRNA pseudouridine 13 synthase (EC 4.2.1.-)
+enterobacter_cloacae_contig-19_4337788	.	.	36913	37863	.	-	1	ID=fig|6666666.353979.peg.4014;Name=tRNA pseudouridine synthase B (EC 4.2.1.70)
+enterobacter_cloacae_contig-16_3945362	.	.	222879	223796	.	+	0	ID=fig|6666666.353979.peg.3476;Name=Ribonuclease Z (EC 3.1.26.11)
+enterobacter_cloacae_contig-07_1006554	.	.	50449	51399	.	+	1	ID=fig|6666666.353979.peg.514;Name=tRNA dimethylallyltransferase (EC 2.5.1.75)
+enterobacter_cloacae_contig-01_173412	.	.	137854	138570	.	+	1	ID=fig|6666666.353979.peg.122;Name=Ribonuclease PH (EC 2.7.7.56)
+enterobacter_cloacae_contig-16_3945362	.	.	272586	273398	.	-	0	ID=fig|6666666.353979.peg.3525;Name=tRNA pseudouridine synthase A (EC 4.2.1.70)
+enterobacter_cloacae_contig-07_1006554	.	.	438460	439005	.	-	1	ID=fig|6666666.353979.peg.870;Name=2'-5' RNA ligase
+enterobacter_cloacae_contig-15_3433952	.	.	252342	254189	.	+	0	ID=fig|6666666.353979.peg.2703;Name=RNA polymerase sigma factor RpoD
+enterobacter_cloacae_contig-16_3945362	.	.	494124	494600	.	-	0	ID=fig|6666666.353979.peg.3723;Name=Sigma factor RpoE regulatory protein RseC
+enterobacter_cloacae_contig-18_4188565	.	.	110368	111360	.	-	1	ID=fig|6666666.353979.peg.3926;Name=RNA polymerase sigma factor RpoS
+enterobacter_cloacae_contig-16_3945362	.	.	495550	496200	.	-	1	ID=fig|6666666.353979.peg.3725;Name=Sigma factor RpoE negative regulatory protein RseA
+enterobacter_cloacae_contig-16_3945362	.	.	496232	496807	.	-	2	ID=fig|6666666.353979.peg.3726;Name=RNA polymerase sigma factor RpoE
+enterobacter_cloacae_contig-16_3945362	.	.	494597	495550	.	-	2	ID=fig|6666666.353979.peg.3724;Name=Sigma factor RpoE negative regulatory protein RseB precursor
+enterobacter_cloacae_contig-10_1846796	.	.	29562	30131	.	+	0	ID=fig|6666666.353979.peg.1511;Name=RNA polymerase sigma-54 factor RpoN
+enterobacter_cloacae_contig-18_4188565	.	.	2930	3460	.	-	2	ID=fig|6666666.353979.peg.3826;Name=RNA polymerase sigma-54 factor RpoN
+enterobacter_cloacae_contig-19_4337788	.	.	69226	70659	.	+	1	ID=fig|6666666.353979.peg.4049;Name=RNA polymerase sigma-54 factor RpoN
+enterobacter_cloacae_contig-04_388864	.	.	22319	23176	.	+	2	ID=fig|6666666.353979.peg.297;Name=RNA polymerase sigma factor RpoH
+enterobacter_cloacae_contig-09_1582130	.	.	91299	92018	.	+	0	ID=fig|6666666.353979.peg.1005;Name=RNA polymerase sigma factor for flagellar operon
+enterobacter_cloacae_contig-20_4364207	.	.	11199	12188	.	-	0	ID=fig|6666666.353979.peg.4135;Name=DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+enterobacter_cloacae_contig-02_285060	.	.	90594	94817	.	+	0	ID=fig|6666666.353979.peg.240;Name=DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+enterobacter_cloacae_contig-01_173412	.	.	133169	133444	.	-	2	ID=fig|6666666.353979.peg.116;Name=DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+enterobacter_cloacae_contig-02_285060	.	.	86489	90517	.	+	2	ID=fig|6666666.353979.peg.239;Name=DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+enterobacter_cloacae_contig-15_3433952	.	.	754422	754841	.	-	0	ID=fig|6666666.353979.peg.3170;Name=Transcription termination protein NusB
+enterobacter_cloacae_contig-21_4513205	.	.	51650	53980	.	+	2	ID=fig|6666666.353979.peg.4219;Name=Transcription accessory protein (S1 RNA-binding domain)
+enterobacter_cloacae_contig-19_4337788	.	.	51249	51725	.	-	0	ID=fig|6666666.353979.peg.4026;Name=Transcription elongation factor GreA
+enterobacter_cloacae_contig-22_4594853	.	.	61265	62524	.	-	2	ID=fig|6666666.353979.peg.4353;Name=Transcription termination factor Rho
+enterobacter_cloacae_contig-02_285060	.	.	83107	83652	.	+	1	ID=fig|6666666.353979.peg.234;Name=Transcription antitermination protein NusG
+enterobacter_cloacae_contig-12_2246463	.	.	18537	21983	.	+	0	ID=fig|6666666.353979.peg.2092;Name=Transcription-repair coupling factor
+enterobacter_cloacae_contig-15_3433952	.	.	541082	541492	.	+	2	ID=fig|6666666.353979.peg.2970;Name=Regulator of nucleoside diphosphate kinase
+enterobacter_cloacae_contig-22_4594853	.	.	10382	10873	.	+	2	ID=fig|6666666.353979.peg.4307;Name=Transcriptional activator RfaH
+enterobacter_cloacae_contig-19_4337788	.	.	42603	43025	.	-	0	ID=fig|6666666.353979.peg.4018;Name=FIG000325: clustered with transcription termination protein NusA
+enterobacter_cloacae_contig-19_4337788	.	.	41072	42574	.	-	2	ID=fig|6666666.353979.peg.4017;Name=Transcription termination protein NusA
+enterobacter_cloacae_contig-07_1006554	.	.	489062	489316	.	-	2	ID=fig|6666666.353979.peg.910;Name=Rho-specific inhibitor of transcription termination (YaeO)
+enterobacter_cloacae_contig-21_4513205	.	.	51051	51563	.	+	0	ID=fig|6666666.353979.peg.4218;Name=Transcription elongation factor GreB
+enterobacter_cloacae_contig-07_1006554	.	.	57342	57767	.	+	0	ID=fig|6666666.353979.peg.521;Name=Nitrite-sensitive transcriptional repressor NsrR
+enterobacter_cloacae_contig-11_2174242	.	.	3806	4285	.	+	2	ID=fig|6666666.353979.peg.1729;Name=Rrf2 family transcriptional regulator, group III
+enterobacter_cloacae_contig-16_3945362	.	.	455598	456089	.	-	0	ID=fig|6666666.353979.peg.3691;Name=Iron-sulfur cluster regulator IscR
