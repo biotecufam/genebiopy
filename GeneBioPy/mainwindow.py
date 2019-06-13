@@ -3,7 +3,7 @@ from PyQt5 import uic
 from PyQt5.QtWidgets import QMainWindow
 from .Controllers import TreeController,ImportController,TreePieChartController
 
-qtCreatorFile = "/home/pablo/github/genebiopy/Resources/reader.ui"
+qtCreatorFile = "Resources/reader.ui"
 Ui_MainWindow, QtBaseClass = uic.loadUiType(qtCreatorFile)
 
 class MainWindow(QMainWindow, Ui_MainWindow):

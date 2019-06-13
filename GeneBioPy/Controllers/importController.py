@@ -112,7 +112,7 @@ class ImportController():
                     if(currentContig):
                         self.main.contigs[currentContig] += line.strip()
                     else:
-                        pass            
+                        pass        
 
     def createAddAnnotation(self, feature, ascession, contig, frame,
                             strand, start, stop, function):
